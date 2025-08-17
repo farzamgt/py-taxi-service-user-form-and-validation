@@ -13,7 +13,6 @@ from .views import (
     DriverDeleteView,
     DriverDetailView,
     DriverUpdateView,
-    # DriverLicenseUpdateView,
     ManufacturerListView,
     ManufacturerCreateView,
     ManufacturerUpdateView,
